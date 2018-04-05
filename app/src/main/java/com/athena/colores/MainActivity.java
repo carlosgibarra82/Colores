@@ -104,8 +104,6 @@ public class MainActivity extends AppCompatActivity  implements SeekBar.OnSeekBa
 
     }
 
-
-
     public void updateBackground(){
         seekAl = seekBarAlpha.getProgress();
         seekR = seekBarRojo.getProgress();
